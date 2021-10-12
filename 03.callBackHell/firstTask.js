@@ -13,3 +13,5 @@ function squareValue(num){
 function multiplication(num1, num2){
     return num1 * num2;
 };
+
+checkEqualSquare(3, 4, 5);
